@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "florasentinel",
+    "slug": "florasentinel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "permissions": ["CAMERA_ROLL"]
+  }
+}
